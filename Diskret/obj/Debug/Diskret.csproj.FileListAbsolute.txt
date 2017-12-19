@@ -1,0 +1,12 @@
+C:\Users\mrasa\Desktop\Diskret\Diskret\bin\Debug\Diskret.exe.config
+C:\Users\mrasa\Desktop\Diskret\Diskret\bin\Debug\Diskret.exe
+C:\Users\mrasa\Desktop\Diskret\Diskret\bin\Debug\Diskret.pdb
+C:\Users\mrasa\Desktop\Diskret\Diskret\obj\Debug\Diskret.csprojResolveAssemblyReference.cache
+C:\Users\mrasa\Desktop\Diskret\Diskret\obj\Debug\Diskret.exe
+C:\Users\mrasa\Desktop\Diskret\Diskret\obj\Debug\Diskret.pdb
+C:\Users\mrasa\Desktop\Homework 4\Задание 1\Эллиптические кривые\Diskret\bin\Debug\Diskret.exe.config
+C:\Users\mrasa\Desktop\Homework 4\Задание 1\Эллиптические кривые\Diskret\bin\Debug\Diskret.exe
+C:\Users\mrasa\Desktop\Homework 4\Задание 1\Эллиптические кривые\Diskret\bin\Debug\Diskret.pdb
+C:\Users\mrasa\Desktop\Homework 4\Задание 1\Эллиптические кривые\Diskret\obj\Debug\Diskret.csprojResolveAssemblyReference.cache
+C:\Users\mrasa\Desktop\Homework 4\Задание 1\Эллиптические кривые\Diskret\obj\Debug\Diskret.exe
+C:\Users\mrasa\Desktop\Homework 4\Задание 1\Эллиптические кривые\Diskret\obj\Debug\Diskret.pdb
